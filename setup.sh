@@ -1,5 +1,7 @@
+# setup.sh bot_stepipoule
+
 # erreurs :
-# 0.1 : votre gestionnaire de paquet n'est pas valide ; selectionner un gestionnaire de paquets valide
+# 0.1 : votre gestionnaire de paquets n'est pas valide ; selectionnez un gestionnaire de paquets valide
 # dependences : sudo, npm (qui sera installer automatiquement)
 # demande le gestionnaire de paquet et installe npm
 

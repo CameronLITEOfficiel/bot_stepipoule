@@ -1,3 +1,5 @@
+# erreurs :
+# 0.1 : votre gestionnaire de paquet n'est pas valide ; selectionner un gestionnaire de paquets valide
 # dependences : sudo, npm (qui sera installer automatiquement)
 # demande le gestionnaire de paquet et installe npm
 
@@ -18,7 +20,7 @@ elif [ "$rep" = "apt" ]; then
 	sudo apt-get update && sudo apt-get install npm
 else 
 	echo "
-	Tu sais lire bordel !
+	Tu sais lire bordel/erreur 0.1 ! (voir code source setup.sh)
 	 "
 fi
 
